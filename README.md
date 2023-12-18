@@ -1,6 +1,5 @@
-#Findeks Api Automation Project for JSONPlaceHolder used tools: Java, Rest Assured
+#Beymen Automation Test Project used tools: Java, Maven, JUnit, Log4j
 
-#You can run the test in APITests.java
+I used Java and JUnit for my test scripts, maven for building and Log4j for logging.
 
-#Created by Ipek Cinar 
-#17/07/2023
+Script for running project: mvn clean test  
